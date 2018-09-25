@@ -1,0 +1,25 @@
+.datagrid-row {
+    border-bottom: 1px solid rgb(223, 218, 218);
+}
+
+.datagrid-cell {
+    color: #33475b;
+}
+
+.datagrid-title {
+    background: rgba(0,77,128,.0392157);
+    padding: 15px 0;
+    font-size: 12px;
+    font-weight: 500;
+    
+}
+
+.datagrid-value {
+    padding: 12px 0;
+    font-size: 12px;
+}
+
+.datagrid-value a {
+    color: #0091ae;
+}
+
