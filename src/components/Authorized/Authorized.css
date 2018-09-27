@@ -1,0 +1,9 @@
+.authorized-container {
+    padding: 100px 0;
+}
+
+.authorized-container p {
+    font-size: 24px;
+    width: 75%;
+    margin: 0 auto;
+}
