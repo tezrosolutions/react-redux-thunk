@@ -10,8 +10,8 @@ class Main extends Component {
         return (
             <Router>
                 <Switch>
-                    <Route exact path='/hubspot-ext' component={Home} />
-                    <Route path='/hubspot-ext/authorized' component={Authorized} />
+                    <Route exact path='/' component={Home} />
+                    <Route path='/authorized' component={Authorized} />
                 </Switch>
             </Router>
 
